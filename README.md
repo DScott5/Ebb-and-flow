@@ -7,6 +7,6 @@ In this project I created an HTML page for an article I read that discussed web 
 1. Draft of summary
 2. Revision of summary
 3. Final version of summary as HTML with CSS
-  * https://github.com/DScott5/Ebb-and-flow/blob/master/Markdown%20V.2.txt
+  * https://github.com/DScott5/Ebb-and-flow/blob/master/Markdown_V.2.txt
   * https://github.com/DScott5/Ebb-and-flow/blob/master/HTML_Feb_6.html
   * https://github.com/DScott5/Ebb-and-flow/blob/master/index.html
