@@ -1,0 +1,60 @@
+h1{text-decoration: underline;
+margin-left: 11em;}
+
+h2{margin-left: 19em;
+margin-bottom: 2em;}
+
+h3{margin-left: 10em;
+margin-top: 3em;}
+
+.website{margin-left: 10em;
+margin-top: 2em;
+font-size: 20px;}
+
+.duncan{margin-left: 24em;}
+
+.author{text-decoration: underline;
+margin-top: 2em;}
+
+.intro{margin-left: 9em;
+font-size: 20px;}
+
+.bullets{font-size: 20px;
+margin-left: 5em}
+
+.header{margin-left: 9em;
+margin-top: 3em;}
+
+.wrapper{width: 60em;}
+
+@media only screen and (max-width: 767px) {
+
+h1{text-decoration: underline;
+margin-left: 11em;}
+
+h2{margin-left: 19em;
+margin-bottom: 2em;}
+
+h3{margin-left: 10em;
+margin-top: 3em;}
+
+.website{margin-left: 10em;
+margin-top: 2em;
+font-size: 20px;}
+
+.duncan{margin-left: 24em;}
+
+.author{text-decoration: underline;
+margin-top: 2em;}
+
+.intro{margin-left: 9em;
+font-size: 20px;}
+
+.bullets{font-size: 20px;
+margin-left: 5em}
+
+.header{margin-left: 9em;
+margin-top: 3em}
+
+.wrapper{width: 60em;}
+}
